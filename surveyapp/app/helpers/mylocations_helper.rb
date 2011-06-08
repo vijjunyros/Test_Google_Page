@@ -1,0 +1,2 @@
+module MylocationsHelper
+end
