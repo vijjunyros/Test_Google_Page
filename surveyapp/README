@@ -2,7 +2,7 @@
 
 1. Run 'bundle install' in your application directory.
 
-2. Run 'rake db:create' and 'rake db:migrate' to create required migrations.
+2. Run 'rake db:migrate' to create required migrations.
 
 3. Run 'rake setup:data' to import default data into database.
 
